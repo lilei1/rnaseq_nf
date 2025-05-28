@@ -1,4 +1,6 @@
 # repository structure:
+
+```
 rnaseq-nf/
 ├── README.md
 ├── nextflow.config
@@ -51,7 +53,7 @@ rnaseq-nf/
 ├── CHANGELOG.md
 ├── CITATIONS.md
 └── LICENSE
-
+```
 # rnaseq-nf
 
 [![Nextflow](https://img.shields.io/badge/nextflow%20DSL2-%E2%89%A522.10.1-23aa62.svg)](https://www.nextflow.io/)
